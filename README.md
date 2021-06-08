@@ -21,7 +21,7 @@
 
 ### Sobre mim / About me
 
-- :computer: Analista de Implantação - Analytics
+- :computer: Analista de Implantação - Analytics / Business Intelligence Implantation Analyst
 - :books: Análise e Desenvolvimento de Sistemas / Computer Systems Analyst  ✅ 
 - :books: Engenharia da Computação / Computer Engineering  ⏳ 
 - :briefcase: [VIASOFT](https://viasoft.com.br/)  🚀

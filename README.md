@@ -23,5 +23,5 @@
 
 - :computer: Analista de Implantação - Analytics / Business Intelligence Implantation Analyst
 - :books: Análise e Desenvolvimento de Sistemas / Computer Systems Analyst  ✅ 
-- :books: Engenharia da Computação / Computer Engineering  ⏳ 
+- :books: Engenharia da Computação - Estudante na UTFPR-PB / Computer Engineering Student at UTFPR-PB  ⏳ 
 - :briefcase: [VIASOFT](https://viasoft.com.br/)  🚀

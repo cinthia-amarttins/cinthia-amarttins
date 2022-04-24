@@ -17,7 +17,7 @@
 
 ### Sobre mim / About me
 
-- :computer: Analista de Implantação - Analytics / Business Intelligence Implantation Analyst
+- :computer: Analista de BI - Analytics / Business Intelligence Analyst
 - :books: Análise e Desenvolvimento de Sistemas / Computer Systems Analyst  ✅ 
 - :books: Estudante de Engenharia da Computação na UTFPR-PB / Student of computer engineering UTFPR-PB  ⏳ 
 - :briefcase: [VIASOFT](https://viasoft.com.br/)  🚀
